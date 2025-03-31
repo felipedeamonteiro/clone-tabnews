@@ -1,0 +1,5 @@
+root = true #regra na qual o editorconfig se baseia para aplicar as regras nas pastas abaixo deste arquivo
+
+[*] #aplica as regras a todos os arquivos
+indent_style = space #estilo de identação
+indent_size = 2 #tamanho da identação
